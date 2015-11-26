@@ -3,3 +3,4 @@ Mundo 12
 Cambio realizado exitosamente
 cambio directo
 cambio indirecto
+Cambio Hoy 25/11/15
